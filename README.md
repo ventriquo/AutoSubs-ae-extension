@@ -1,7 +1,7 @@
 # AutoSubs — AI-Powered Subtitles for After Effects
 
-![GitHub Release](https://img.shields.io/github/v/release/ventriquo/AutoSubs?include_prereleases&label=Version)
-![GitHub Downloads](https://img.shields.io/github/downloads/ventriquo/AutoSubs/total)
+![GitHub Release](https://img.shields.io/github/v/release/ventriquo/AutoSubs-ae-extension?include_prereleases&label=Version)
+![GitHub Downloads](https://img.shields.io/github/downloads/ventriquo/AutoSubs-ae-extension/total)
 ![Price](https://img.shields.io/badge/Price-%2415%2Fmonth-brightgreen)
 ![After Effects](https://img.shields.io/badge/After%20Effects-CC%202014%2B-blue)
 
